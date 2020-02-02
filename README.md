@@ -1,4 +1,4 @@
 # Zodiac Maze
 
-## wanring: missing files
+## warning: missing files
 ## !! full files are in zip folder
