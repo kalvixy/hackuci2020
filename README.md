@@ -1,3 +1,4 @@
 # Zodiac Maze
 
-missing: unity library folder
+## wanring: missing files
+## !! full files are in zip folder
